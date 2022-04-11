@@ -24,6 +24,7 @@
                     var dos = $("#dos").val();
                     var suma = parseInt(uno) + parseInt(dos);
                     $("#result").val(suma);
+                    console.log("cambio");
                 });
             });
         </script>
