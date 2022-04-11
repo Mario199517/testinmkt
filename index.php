@@ -10,6 +10,7 @@
     </head>
     <body>
         <h1>No agarra el fetch de agus :v</h1>
+        <h2>HOLA MUNDO EN JAVA</h2>
         <div>
             <input id="uno" type="text">
             <input id="dos" type="text">
