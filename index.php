@@ -8,6 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="vendors/bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
     </head>
     <body>
         <div class="container">
@@ -54,9 +55,14 @@
 
         <script src="vendors/bootstrap/js/bootstrap.js"></script>
         <script src="vendors/jquery/jquery.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
 
         <script>
             $(document).ready(function() {
+                $.alert({
+                    title: 'Bro!',
+                    content: 'Vale verga la vida!',
+                });
                 $("#btn").on('click', function(e) {
                     e.preventDefault();
 
