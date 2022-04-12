@@ -9,13 +9,17 @@
         <link rel="stylesheet" href="vendors/bootstrap/css/bootstrap.css">
     </head>
     <body>
-        <h1>No agarra el fetch de agus :v</h1>
-        <h2>HOLA MUNDO EN JAVA</h2>
-        <div>
-            <input id="uno" type="text" class="form-control">
-            <input id="dos" type="text" class="form-control">
-            <input id="result" type="text" class="form-control">
-            <button id="btn" class="btn btn-primary">Ver resultado</button>
+        <div class="container">
+            <div class="d-flex justify-content-center">
+                <div class="col-md-6">
+                    <h1>No agarra el fetch de agus :v</h1>
+                    <h2>HOLA MUNDO EN JAVA</h2>
+                        <input id="uno" type="text" class="form-control">
+                        <input id="dos" type="text" class="form-control">
+                        <input id="result" type="text" class="form-control">
+                        <button id="btn" class="btn btn-primary">Ver resultado</button>
+                </div>
+            </div>
         </div> 
 
         <script src="vendors/bootstrap/js/bootstrap.js"></script>
