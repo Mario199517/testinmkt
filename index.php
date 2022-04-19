@@ -53,7 +53,7 @@
         <div class="container">
             <div class="d-flex justify-content-center m-5">
                 <div class="col-md-6">
-                    <h4 class="text-center">No agarra el fetch de agus :v</h4>
+                    <h4 class="text-center">No agarra el fetch de agus :v, hola mundo a todos, esyte es mi ultia di</h4>
                     <h5 class="text-center">HOLA MUNDO EN JAVA</h5>
                     <div class="row">
                         <div class="col-md-6">
