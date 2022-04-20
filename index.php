@@ -100,7 +100,7 @@
             $(document).ready(function() {
                 $.alert({
                     title: 'Bro!',
-                    content: 'Vale verga la vida!',
+                    content: 'Puto el que lo lea :v!',
                 });
                 $("#btn").on('click', function(e) {
                     e.preventDefault();
