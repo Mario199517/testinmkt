@@ -24,6 +24,7 @@
             display: flex;
             list-style: none;
             margin: 0;
+            padding: 0;
         }
 
         .links ul li{
@@ -37,6 +38,27 @@
             padding: 0px 7px;
             margin: 0px 6px;
             font-weight: 600;
+        }
+
+        .main{
+            background: #f0f0f0;
+            padding: 25px 0px;
+        }
+
+        .box{
+            background: #fff;
+            padding: 20px 20px;
+            border: 1px solid #ccc;
+            box-shadow: 0px 0px 7px #ccc;
+            border-radius: 5px;
+        }
+
+        .box-content{
+
+        }
+
+        .box-content h1{
+            font-size: 20px;
         }
 
     </style>
@@ -60,6 +82,16 @@
         </div>
     </div>
 </header>
+<div class="main">
+    <div class="container">
+        <div class="box">
+            <div class="box-content">
+                <h1>Welcome to my web</h1>
+            </div>
+        </div>
+    </div>
+
+</div>
 
     <script src="vendors/bootstrap/js/bootstrap.js"></script>
     <script src="vendors/jquery/jquery.js"></script>
