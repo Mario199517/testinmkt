@@ -99,7 +99,7 @@
         <script>
             $(document).ready(function() {
                 $.alert({
-                    title: 'Bro!',
+                    title: 'PUTOS TODOS XD!',
                     content: 'Puto el que lo lea :v!',
                 });
                 $("#btn").on('click', function(e) {
