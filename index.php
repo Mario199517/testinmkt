@@ -102,6 +102,7 @@
                     title: 'Rich!',
                     content: 'Quieres ver a kari verdad??!',
                 });
+                
                 $("#btn").on('click', function(e) {
                     e.preventDefault();
 
