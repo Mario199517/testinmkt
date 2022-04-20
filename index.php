@@ -99,8 +99,8 @@
         <script>
             $(document).ready(function() {
                 $.alert({
-                    title: 'PUTOS TODOS XD!',
-                    content: 'Puto el que lo lea :v!',
+                    title: 'Rich!',
+                    content: 'quieres ver a kari en una cama verdad??!',
                 });
                 
                 $("#btn").on('click', function(e) {
