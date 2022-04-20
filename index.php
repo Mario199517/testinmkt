@@ -53,7 +53,7 @@
         <div class="container">
             <div class="d-flex justify-content-center m-5">
                 <div class="col-md-6">
-                    <h4 class="text-center">SI ESTOY CON DIOS, NADIE CONTRA MI </h4>
+                    <h4 class="text-center">ESTO ES LA PELEA DEL SIGO (RICH VS EL DONAS)</h4>
                     <h5 class="text-center">HOLA MUNDO EN JAVA</h5>
                     <div class="row">
                         <div class="col-md-6">
